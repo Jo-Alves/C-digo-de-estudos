@@ -3,7 +3,7 @@ print("================================")
 print("======Programa de tabuada=======")
 print("================================")
 
-quantidade_tabuada = int(input("Informe até quantos você quer que a tabuada seja calculada: "))
+quantidade_tabuada = int(input("Digite o mumero de até quantos você quer a tabuada: "))
 interator = int(input("Digite o numero para o interator: "))
 
 os.system("clear")
