@@ -1,0 +1,5 @@
+DB = ""
+CLIENT = ""
+USER = ""
+PASSWORD = ""
+HOST = ""
